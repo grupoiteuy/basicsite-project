@@ -83,7 +83,7 @@
             "source": {
               "url": "https://git.drupal.org/sandbox/fanton/2944709.git",
               "type": "git",
-              "reference": "8.x"
+              "reference": "@branch"
             }
           }
         }
