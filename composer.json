@@ -78,7 +78,7 @@
           "type": "package",
           "package": {
             "name": "drupal/basic_site_8",
-            "version": "8.5.x",
+            "version": "8.5",
             "type": "drupal-module",
             "source": {
               "url": "https://git.drupal.org/sandbox/fanton/2944709.git",
