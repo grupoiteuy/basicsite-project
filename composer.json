@@ -69,17 +69,17 @@
         "phpcs": "phpcs --standard=core/phpcs.xml.dist --runtime-set installed_paths $($COMPOSER_BINARY config vendor-dir)/drupal/coder/coder_sniffer --",
         "phpcbf": "phpcbf --standard=core/phpcs.xml.dist --runtime-set installed_paths $($COMPOSER_BINARY config vendor-dir)/drupal/coder/coder_sniffer --"
     },
-    "repositories": [
+    "repositories": {
         "0": {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
-        }
+        },
         "sandboxes": {
           "type": "package",
           "package": {
             "name": "grupoite/basicsite",
             "version": "8.5.x",
-            "type": "drupal-module"
+            "type": "drupal-module",
             "source": {
               "url": "https://git.drupal.org/sandbox/fanton/2944709.git",
               "type": "git",
@@ -87,6 +87,5 @@
             }
           }
         }
-
-    ]
+    }
 }
