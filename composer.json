@@ -23,9 +23,6 @@
         "drupal/webform":"~5",
         "drupal/basic_site":"~8"
     },
-    "require-dev": {
-            "webflo/drupal-core-require-dev": "~8.5"
-    },
     "conflict": {
             "drupal/drupal": "*"
     },
