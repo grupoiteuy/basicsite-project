@@ -17,7 +17,7 @@
         "drupal/slick_views":"~1",
         "drupal/views_bootstrap":"~3",
         "drupal/webform":"~5",
-        "grupoite/basicsite":"~8"
+        "drupal/basic_site_8":"~8"
     },
     "replace": {
         "drupal/core": "^8.5"
@@ -77,13 +77,13 @@
         "sandboxes": {
           "type": "package",
           "package": {
-            "name": "grupoite/basicsite",
+            "name": "drupal/basic_site_8",
             "version": "8.5.x",
             "type": "drupal-module",
             "source": {
               "url": "https://git.drupal.org/sandbox/fanton/2944709.git",
               "type": "git",
-              "reference": "8.x-1.x"
+              "reference": "8.x"
             }
           }
         }
