@@ -5,9 +5,14 @@
     "license": "GPL-2.0+",
     "require": {
         "php": "^7.1",
-        "composer/installers": "^1.0.24",
-        "wikimedia/composer-merge-plugin": "^1.4",
-        "drush/drush": "^9.2",
+        "composer/installers": "^1.2",
+        "cweagans/composer-patches": "^1.6",
+        "drupal-composer/drupal-scaffold": "^2.2",
+        "drupal/console": "^1.0.2",
+        "drupal/core": "~8.5",
+        "drush/drush": "^9.0.0",
+        "webflo/drupal-finder": "^1.0.0",
+        "webmozart/path-util": "^2.3",
         "drupal/admin_toolbar":"~1",
         "drupal/blazy":"~1",
         "drupal/ds":"~3",
@@ -17,7 +22,7 @@
         "drupal/slick_views":"~1",
         "drupal/views_bootstrap":"~3",
         "drupal/webform":"~5",
-        "drupal/basic_site_8":"~8"
+        "drupal/basic_site":"~8"
     },
     "replace": {
         "drupal/core": "^8.5"
@@ -45,13 +50,13 @@
             "merge-extra": false
         },
         "installer-paths": {
-            "docroot/core": ["type:drupal-core"],
-            "docroot/modules/contrib/{$name}": ["type:drupal-module"],
-            "docroot/profiles/contrib/{$name}": ["type:drupal-profile"],
-            "docroot/themes/contrib/{$name}": ["type:drupal-theme"],
-            "drush/contrib/{$name}": ["type:drupal-drush"],
-            "docroot/modules/custom/{$name}": ["type:drupal-custom-module"],
-            "docroot/themes/custom/{$name}": ["type:drupal-custom-theme"]
+            "web/core": ["drupal-core"],
+            "web/profiles/{$name}": ["type:drupal-profile"],
+            "web/modules/contrib/{$name}": ["type:drupal-module"],
+            "web/modules/{$name}": ["type:drupal-custom-module"],
+            "web/themes/{$name}": ["type:drupal-theme"],
+            "web/themes/{$name}": ["type:drupal-custom-theme"],
+            "drush/contrib/{$name}": ["type:drupal-drush"]
         }
     },
     "autoload": {
@@ -77,7 +82,7 @@
         "sandboxes": {
           "type": "package",
           "package": {
-            "name": "drupal/basic_site_8",
+            "name": "drupal/basic_site",
             "version": "8.5",
             "type": "drupal-profile",
             "source": {
