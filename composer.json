@@ -35,7 +35,8 @@
         "drupal/views_bootstrap":"~3",
         "drupal/webform":"~5",
         "drush/drush": "^9.0.0",
-        "drupal/basic_site":"~8"
+        "drupal/basic_site":"~8",
+        "kenwheeler/slick": "*"
     },
     "conflict": {
             "drupal/drupal": "*"
@@ -67,6 +68,7 @@
             "web/modules/contrib/{$name}": ["type:drupal-module"],
             "web/modules/{$name}": ["type:drupal-custom-module"],
             "web/themes/{$name}": ["type:drupal-theme"],
+            "web/libraries/{$name}": ["type:drupal-library"],
             "drush/contrib/{$name}": ["type:drupal-drush"]
         }
     },
@@ -107,6 +109,18 @@
               "reference": "master"
             }
           }
+        },
+        "slick": {
+            "type": "package",
+            "package": {
+                "name": "kenwheeler/slick",
+                "version": "master",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/kenwheeler/slick/archive/master.zip",
+                    "type": "zip"
+                }
+            }
         }
     }
 }
