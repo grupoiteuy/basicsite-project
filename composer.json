@@ -11,8 +11,10 @@
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3",
         "drupal/admin_toolbar":"~1",
+        "drupal/advagg":"^3.5",
         "drupal/backup_migrate":"^4.0",
         "drupal/blazy":"~1",
+        "drupal/big_pipe_sessionless":"^1.2",
         "drupal/bootstrap_layouts":"^5.1",
         "drupal/config_update":"^1.5",
         "drupal/contribute":"^1.0",
@@ -27,6 +29,7 @@
         "drupal/image_widget_crop":"^2.1",
         "drupal/linkit":"^5.0",
         "drupal/metatag":"^1.4",
+        "drupal/minifyhtml":"^1.1",
         "drupal/paragraphs":"^1.2",
         "drupal/pathauto":"^1.1",
         "drupal/recaptcha":"^2.2",
@@ -65,11 +68,11 @@
             "merge-extra": false
         },
         "installer-paths": {
-            "web/core": ["type:drupal-core"],
-            "web/profiles/{$name}": ["type:drupal-profile"],
-            "web/modules/{$name}": ["type:drupal-module"],
-            "web/themes/{$name}": ["type:drupal-theme"],
-            "web/libraries/{$name}": ["type:drupal-library"],
+            "core": ["type:drupal-core"],
+            "profiles/{$name}": ["type:drupal-profile"],
+            "modules/{$name}": ["type:drupal-module"],
+            "themes/{$name}": ["type:drupal-theme"],
+            "libraries/{$name}": ["type:drupal-library"],
             "drush/contrib/{$name}": ["type:drupal-drush"]
         }
     },
