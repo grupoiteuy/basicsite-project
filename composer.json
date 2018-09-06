@@ -39,7 +39,9 @@
         "drupal/token":"^1.1",
         "drupal/views_bootstrap":"~3",
         "drupal/webform":"~5",
+        "drupal/recaptcha":"^2.32",
         "drush/drush": "^9.0.0",
+        "drupal/bootstrap": "^3.12",
         "drupal/basic_site":"~8",
         "kenwheeler/slick": "*"
     },
