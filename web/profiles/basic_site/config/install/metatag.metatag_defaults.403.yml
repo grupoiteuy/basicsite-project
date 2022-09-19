@@ -1,0 +1,9 @@
+langcode: es
+status: true
+dependencies: {  }
+id: '403'
+label: '403 acceso denegado'
+tags:
+  robots: noindex
+  canonical_url: '[site:url]'
+  shortlink: '[site:url]'

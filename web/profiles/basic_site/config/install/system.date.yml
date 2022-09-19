@@ -1,9 +1,9 @@
 langcode: es
 first_day: 0
 country:
-  default: ''
+  default: UY
 timezone:
-  default: ''
+  default: America/Montevideo
   user:
     configurable: true
     default: 0

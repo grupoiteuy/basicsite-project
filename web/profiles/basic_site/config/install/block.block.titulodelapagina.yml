@@ -1,0 +1,17 @@
+langcode: es
+status: true
+dependencies:
+  theme:
+    - seven
+id: titulodelapagina
+theme: seven
+region: header
+weight: 0
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Título de la página'
+  label_display: '0'
+  provider: core
+visibility: {  }

@@ -17,9 +17,9 @@ dependencies:
   - backup_migrate
   - block
   - block_content
+  - bootstrap_paragraphs
   - ckeditor
   - config
-  - contact
   - contextual
   - ctools
   - datetime
@@ -30,8 +30,12 @@ dependencies:
   - fontawesome
   - google_analytics
   - grupoite_tools
+  - linkit
   - image
+  - image_widget_crop
+  - media_library
   - menu_ui
+  - metatag
   - node
   - options
   - page_cache
@@ -39,6 +43,8 @@ dependencies:
   - path
   - pathauto
   - quickedit
+  - recaptcha
+  - responsive_image
   - rdf
   - shortcut
   - slick
@@ -51,7 +57,7 @@ dependencies:
   - views
   - views_bootstrap
   - views_ui
-  - webform
+  - webform_ui
 themes:
   - grupoite
   - seven

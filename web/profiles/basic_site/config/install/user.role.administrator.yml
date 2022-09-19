@@ -1,0 +1,13 @@
+langcode: es
+status: true
+dependencies:
+  config:
+    - filter.format.full_html
+  module:
+    - filter
+id: administrator
+label: Administrador
+weight: -8
+is_admin: null
+permissions:
+  - 'use text format full_html'

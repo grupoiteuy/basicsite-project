@@ -1,0 +1,13 @@
+langcode: es
+status: true
+dependencies:
+  config:
+    - filter.format.full_html
+  module:
+    - filter
+id: editor
+label: Editor
+weight: -7
+is_admin: null
+permissions:
+  - 'use text format full_html'

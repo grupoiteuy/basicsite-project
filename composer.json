@@ -28,8 +28,7 @@
         "drupal/recaptcha":"^3.0",
         "drush/drush": "^11.0",
         "drupal/bootstrap_paragraphs": "^2.0@beta",
-        "drupal/bootstrap_sass": "^5.0",
-        "grupoiteuy/basic_site": "^9.4"
+        "drupal/bootstrap_sass": "^5.0"
     },
     "conflict": {
         "drupal/drupal": "*"
@@ -80,35 +79,10 @@
             ]
         }
     },
-    "repositories": {
-        "0": {
+    "repositories": [
+        {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
-        },
-        "sandboxes": {
-          "type": "package",
-          "package": {
-            "name": "grupoiteuy/basic_site",
-            "version": "9.4",
-            "type": "drupal-custom-profile",
-            "source": {
-              "url": "https://git.drupal.org/sandbox/fanton/2944709.git",
-              "type": "git",
-              "reference": "master"
-            }
-          }
-        },
-        "slick": {
-            "type": "package",
-            "package": {
-                "name": "kenwheeler/slick",
-                "version": "master",
-                "type": "drupal-library",
-                "dist": {
-                    "url": "https://github.com/kenwheeler/slick/archive/master.zip",
-                    "type": "zip"
-                }
-            }
         }
-    }
+    ]
 }

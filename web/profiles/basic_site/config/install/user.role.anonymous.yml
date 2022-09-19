@@ -6,7 +6,7 @@ dependencies:
     - system
 id: anonymous
 label: 'Usuario anónimo'
-weight: 0
+weight: -10
 is_admin: false
 permissions:
   - 'access content'

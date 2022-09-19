@@ -1,0 +1,6 @@
+langcode: es
+status: false
+dependencies: {  }
+formId: user_login_form
+captchaType: default
+label: user_login_form

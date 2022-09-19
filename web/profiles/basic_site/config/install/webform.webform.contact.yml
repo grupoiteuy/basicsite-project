@@ -4,9 +4,9 @@ dependencies:
   enforced:
     module:
       - webform
-weight: 0
 open: null
 close: null
+weight: 0
 uid: null
 template: false
 archive: false
@@ -223,9 +223,9 @@ access:
 handlers:
   email_confirmation:
     id: email
-    handler_id: email_confirmation
     label: 'Confirmación por correo electrónico'
     notes: ''
+    handler_id: email_confirmation
     status: true
     conditions: {  }
     weight: 1
@@ -260,9 +260,9 @@ handlers:
       debug: false
   email_notification:
     id: email
-    handler_id: email_notification
     label: 'Aviso por correo electrónico'
     notes: ''
+    handler_id: email_notification
     status: true
     conditions: {  }
     weight: 2

@@ -1,0 +1,17 @@
+langcode: es
+status: true
+dependencies:
+  theme:
+    - seven
+id: accionesprincipalesdeadministracion
+theme: seven
+region: content
+weight: 0
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Acciones principales de administración'
+  label_display: '0'
+  provider: core
+visibility: {  }
