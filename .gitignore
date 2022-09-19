@@ -33,6 +33,7 @@
 .ftpquota
 error_log
 /web/themes/custom/*/node_modules/
+/web/profiles/*/themes/custom/*/node_modules/
 /.php-version
 /php.ini
 /.lando.yml
