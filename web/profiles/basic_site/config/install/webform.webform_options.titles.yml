@@ -1,0 +1,16 @@
+langcode: es
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+id: titles
+label: Títulos
+category: Demográfico
+likert: false
+options: |
+  Miss: Miss
+  Ms: Ms
+  Mr: Mr
+  Mrs: Mrs
+  Dr: Dr

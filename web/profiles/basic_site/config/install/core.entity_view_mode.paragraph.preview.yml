@@ -1,0 +1,9 @@
+langcode: es
+status: true
+dependencies:
+  module:
+    - paragraphs
+id: paragraph.preview
+label: 'Vista previa'
+targetEntityType: paragraph
+cache: true

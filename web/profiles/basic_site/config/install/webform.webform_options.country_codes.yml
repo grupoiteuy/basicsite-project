@@ -1,0 +1,11 @@
+langcode: es
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+id: country_codes
+label: 'Country codes'
+category: Geográfico
+likert: false
+options: ''

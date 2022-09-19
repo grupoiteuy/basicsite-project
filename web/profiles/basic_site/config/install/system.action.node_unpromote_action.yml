@@ -1,0 +1,10 @@
+langcode: es
+status: true
+dependencies:
+  module:
+    - node
+id: node_unpromote_action
+label: 'Eliminar contenido de la página de inicio'
+type: node
+plugin: node_unpromote_action
+configuration: {  }

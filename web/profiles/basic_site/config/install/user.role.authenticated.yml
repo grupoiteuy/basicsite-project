@@ -1,0 +1,17 @@
+langcode: es
+status: true
+dependencies:
+  module:
+    - fontawesome
+    - google_analytics
+    - media
+    - system
+id: authenticated
+label: 'Usuario autenticado'
+weight: 1
+is_admin: false
+permissions:
+  - 'access content'
+  - 'access fontawesome additional settings'
+  - 'opt-in or out of google analytics tracking'
+  - 'view media'

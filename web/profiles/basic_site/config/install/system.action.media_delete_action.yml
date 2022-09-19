@@ -1,0 +1,10 @@
+langcode: es
+status: true
+dependencies:
+  module:
+    - media
+id: media_delete_action
+label: 'Eliminar medios'
+type: media
+plugin: 'entity:delete_action:media'
+configuration: {  }

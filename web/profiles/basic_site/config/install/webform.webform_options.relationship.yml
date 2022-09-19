@@ -1,0 +1,16 @@
+langcode: es
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+id: relationship
+label: Relación
+category: Demográfico
+likert: false
+options: |
+  Parent: Parent
+  'Significant Other': 'Significant Other'
+  Sibling: Sibling
+  Child: Child
+  Friend: Friend

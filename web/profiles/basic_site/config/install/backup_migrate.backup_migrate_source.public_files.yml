@@ -1,0 +1,9 @@
+langcode: es
+status: true
+dependencies: {  }
+id: public_files
+label: 'Directorio de archivos públicos'
+type: DrupalFiles
+config:
+  name: 'Public Files Directory'
+  directory: 'public://'

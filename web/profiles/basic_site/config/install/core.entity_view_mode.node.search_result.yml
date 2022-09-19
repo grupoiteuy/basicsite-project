@@ -1,0 +1,9 @@
+langcode: es
+status: false
+dependencies:
+  module:
+    - node
+id: node.search_result
+label: 'Destacar la entrada de los resultados de búsqueda'
+targetEntityType: node
+cache: true

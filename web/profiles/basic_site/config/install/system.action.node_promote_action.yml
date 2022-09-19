@@ -1,0 +1,10 @@
+langcode: es
+status: true
+dependencies:
+  module:
+    - node
+id: node_promote_action
+label: 'Promocionar contenido a la página de inicio'
+type: node
+plugin: node_promote_action
+configuration: {  }

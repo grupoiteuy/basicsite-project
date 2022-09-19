@@ -1,0 +1,12 @@
+langcode: es
+name: 'Basic Site'
+mail: info@grupoite.com.uy
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user/login
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: es
+mail_notification: ''

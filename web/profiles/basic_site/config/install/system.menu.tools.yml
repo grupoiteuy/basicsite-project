@@ -1,0 +1,7 @@
+langcode: es
+status: true
+dependencies: {  }
+id: tools
+label: Herramientas
+description: 'Enlaces de herramientas de usuario. Los suelen añadir los módulos'
+locked: true

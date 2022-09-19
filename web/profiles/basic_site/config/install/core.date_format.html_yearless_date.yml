@@ -1,0 +1,7 @@
+langcode: es
+status: true
+dependencies: {  }
+id: html_yearless_date
+label: 'Fecha anual HTML'
+locked: true
+pattern: m-d

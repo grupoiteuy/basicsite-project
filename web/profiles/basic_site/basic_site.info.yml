@@ -1,0 +1,57 @@
+name: Basic site
+type: profile
+description: 'Base site is a basic but very useful distribution to start a new site with the most used modules and configurations commons.'
+core_version_requirement: ^9
+
+# Optional: Declare your installation profile as a distribution
+# This will make the installer auto-select this installation profile.
+# The distribution_name property is used in the installer and other places as
+# a label for the software being installed.
+distribution:
+  name: Basic site
+  langcode: es
+
+dependencies:
+  - admin_toolbar
+  - admin_toolbar_tools
+  - backup_migrate
+  - block
+  - block_content
+  - ckeditor
+  - config
+  - contact
+  - contextual
+  - ctools
+  - datetime
+  - dblog
+  - editor
+  - field_ui
+  - file
+  - fontawesome
+  - google_analytics
+  - grupoite_tools
+  - image
+  - menu_ui
+  - node
+  - options
+  - page_cache
+  - paragraphs
+  - path
+  - pathauto
+  - quickedit
+  - rdf
+  - shortcut
+  - slick
+  - slick_ui
+  - slick_views
+  - taxonomy
+  - token
+  - toolbar
+  - update
+  - views
+  - views_bootstrap
+  - views_ui
+  - webform
+themes:
+  - grupoite
+  - seven

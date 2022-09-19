@@ -1,0 +1,7 @@
+langcode: es
+status: true
+dependencies: {  }
+id: account
+label: 'Menú de cuenta de usuario'
+description: 'Enlaces relacionados con la cuenta del usuario activo'
+locked: true

@@ -1,0 +1,7 @@
+langcode: es
+status: true
+dependencies: {  }
+id: main
+label: 'Navegación principal'
+description: 'Enlaces de secciones del sitio'
+locked: true
