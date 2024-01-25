@@ -1,6 +1,9 @@
+uuid: e3764166-0a94-4513-a039-e3fd50d134d5
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: 7A0SKo9Ck3AWfYkv0hq3n657wJt3IQay566QYRTbtaY
 name: crop_thumbnail
 label: 'Crop thumbnail'
 effects:

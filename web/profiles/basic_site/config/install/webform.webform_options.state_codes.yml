@@ -1,9 +1,12 @@
+uuid: d03bc446-667f-40b4-8ce5-aecce502620f
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: eh_kkkOke7lqSt4OHE2avqhApkCDIWzy13WPUoxw8s4
 id: state_codes
 label: 'State codes'
 category: Geográfico

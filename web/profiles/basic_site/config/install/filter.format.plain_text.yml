@@ -1,12 +1,21 @@
+uuid: d0509f15-ed82-40fa-9e58-eab532e86e1b
 langcode: es
 status: true
 dependencies:
   module:
     - slick
+_core:
+  default_config_hash: 0e8lcsT911aNPckczRCHtVHTzwRKcsOOGUDVYV8zQfI
 name: 'Texto sin formato'
 format: plain_text
 weight: 10
 filters:
+  filter_autop:
+    id: filter_autop
+    provider: filter
+    status: true
+    weight: 0
+    settings: {  }
   filter_html_escape:
     id: filter_html_escape
     provider: filter
@@ -20,12 +29,6 @@ filters:
     weight: 0
     settings:
       filter_url_length: 72
-  filter_autop:
-    id: filter_autop
-    provider: filter
-    status: true
-    weight: 0
-    settings: {  }
   slick_filter:
     id: slick_filter
     provider: slick

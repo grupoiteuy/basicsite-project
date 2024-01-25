@@ -1,12 +1,15 @@
+uuid: 05292956-953b-410b-b12e-88ba8d7af7b7
 langcode: es
 status: true
 dependencies:
   theme:
-    - seven
-id: pestanas
-theme: seven
-region: header
-weight: 1
+    - bootstrap_barrio
+_core:
+  default_config_hash: IsKUlBAi-gl90iZ3w0OI3XZvSYDrtxg4nF1aDhfLWIA
+id: bootstrap_barrio_primary_local_tasks
+theme: bootstrap_barrio
+region: content
+weight: -5
 provider: null
 plugin: local_tasks_block
 settings:

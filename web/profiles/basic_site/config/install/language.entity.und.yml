@@ -1,6 +1,9 @@
+uuid: 28d34037-c67e-4258-ba89-e16620d9d2e5
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: GqjOSmvmzL-1cocYg5bTUmdaA177dlWJ9QT_HLcJDOQ
 id: und
 label: 'Sin especificar'
 direction: ltr

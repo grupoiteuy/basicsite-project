@@ -1,8 +1,11 @@
+uuid: 1eaa5ef3-bc96-4448-9cb3-c925db86ff37
 langcode: es
 status: true
 dependencies:
   module:
     - media
+_core:
+  default_config_hash: J8uYjIt52a_PvpGkRidtMPCmInIXoYtzrx1rjuig-aM
 id: media_publish_action
 label: 'Publicar medio'
 type: media

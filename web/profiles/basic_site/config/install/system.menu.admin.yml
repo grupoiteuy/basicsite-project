@@ -1,6 +1,9 @@
+uuid: 4911275d-85c5-4eff-9a77-f77a2ce149a2
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: krEU-xnuOZqw8ro2vuKvQ0MdpixePgpkVMx51dWKZLI
 id: admin
 label: Administración
 description: 'Enlaces de tareas administrativas'

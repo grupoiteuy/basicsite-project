@@ -1,9 +1,12 @@
+uuid: cd16ef22-6fed-4861-92b6-449414a1cde6
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - slick
+_core:
+  default_config_hash: V9mAMXmpPX9Bti1RY7VNgHD8woeVNv1w10QXCEIw3TA
 name: slick_media
 label: 'Slick media'
 effects:

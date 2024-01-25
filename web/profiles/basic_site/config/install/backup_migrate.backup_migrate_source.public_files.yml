@@ -1,6 +1,9 @@
+uuid: 843fc3f6-0cd3-44f1-a75c-bab587459fe3
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: FRPc0Qg-afUmzge79EZ7x1FEk-op1o_NzJ0MNWWGLts
 id: public_files
 label: 'Directorio de archivos públicos'
 type: DrupalFiles

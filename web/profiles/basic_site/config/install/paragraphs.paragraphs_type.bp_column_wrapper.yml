@@ -1,6 +1,9 @@
+uuid: 8abd747f-5f38-4039-bf2c-bb12bfffd40c
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: W36f9x5xI0-J2hSwuCNXFz_sAKmqSaTSZLZDSWFIkHU
 id: bp_column_wrapper
 label: 'Column Wrapper'
 icon_uuid: null

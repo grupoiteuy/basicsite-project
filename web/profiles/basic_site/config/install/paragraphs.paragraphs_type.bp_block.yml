@@ -1,6 +1,9 @@
+uuid: ecd29b2c-dfc9-4ac3-b2ca-52e4df6eadca
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: ZhBKRRVxxxZnhBE1uXPo7UBZxnCaUWVe_6Hvef4GU1A
 id: bp_block
 label: 'Drupal Block'
 icon_uuid: null

@@ -1,3 +1,4 @@
+uuid: 519d2a78-ebd8-4fcc-8c0c-489c27f765c5
 langcode: es
 status: true
 dependencies:
@@ -9,6 +10,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_carousel
   module:
     - paragraphs
+_core:
+  default_config_hash: a3CGs7Ch02wTRw5GzZgOdVoWH7yd7OXPGAacRz0fO-A
 id: paragraph.bp_carousel.default
 targetEntityType: paragraph
 bundle: bp_carousel

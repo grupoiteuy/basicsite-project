@@ -1,6 +1,9 @@
+uuid: b48cab92-83c3-4a7d-a9bc-880d32d32d3f
 langcode: es
 status: false
 dependencies: {  }
+_core:
+  default_config_hash: DkoFr9QajxSe0BkpIdVSBUjzJfXgKjCzaCRbNW3gLHM
 formId: user_pass
 captchaType: default
 label: user_pass

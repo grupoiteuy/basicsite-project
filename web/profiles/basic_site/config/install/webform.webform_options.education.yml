@@ -1,9 +1,12 @@
+uuid: 3efbef41-1433-4f49-a67f-5c2e6ddb1d28
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: 0D8lWsm14vsinPzECtZMdP7wSvvTEoyeErdxn5P-t5k
 id: education
 label: Educación
 category: Demográfico

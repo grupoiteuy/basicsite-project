@@ -1,9 +1,12 @@
+uuid: 55c3566c-0255-4edf-b1ea-7667974f92be
 langcode: es
 status: true
 dependencies:
   module:
     - entity_reference_revisions
     - paragraphs
+_core:
+  default_config_hash: hSV9-HqwMIoYoO5SaYuhKM9b8PLi2_N2b7sggJTITvc
 id: paragraph.bp_column_content_w
 field_name: bp_column_content_w
 entity_type: paragraph

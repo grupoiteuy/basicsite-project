@@ -1,9 +1,12 @@
+uuid: 85771dec-c464-4afd-ab73-963a7287cf7f
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: jTAXri7D-SEb__OtAuk0eUSD389xG3iHfZiXPYKuAVE
 id: yes_no
 label: Sí/No
 category: General

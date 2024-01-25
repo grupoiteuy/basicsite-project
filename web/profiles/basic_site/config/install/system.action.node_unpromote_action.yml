@@ -1,8 +1,11 @@
+uuid: ef397be0-fdc6-40f0-b986-6eeaa9721ef0
 langcode: es
 status: true
 dependencies:
   module:
     - node
+_core:
+  default_config_hash: Y8N4_7RcLga3tujFSEl_qjedJ1DS8dwKX8yyQBHqwnY
 id: node_unpromote_action
 label: 'Eliminar contenido de la página de inicio'
 type: node

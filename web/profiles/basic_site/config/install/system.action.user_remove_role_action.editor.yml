@@ -1,3 +1,4 @@
+uuid: a4847570-9f9b-4943-8188-24d02ba4b9ca
 langcode: es
 status: true
 dependencies:
@@ -5,6 +6,8 @@ dependencies:
     - user.role.editor
   module:
     - user
+_core:
+  default_config_hash: Arx0BBYBx7xJJ2zr0OSlKxDPP6uGxFmPba_HVDeg0b4
 id: user_remove_role_action.editor
 label: 'Elimina el rol Editor al(los) usuario(s) seleccionado(s)'
 type: user

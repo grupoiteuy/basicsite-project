@@ -1,9 +1,12 @@
+uuid: 6bd0edb4-dddb-49de-a790-9d3199e106f3
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: KjpEUuQM90IBa7KFpmv2DGVlogwC8U9TymVN-i1OG0s
 id: size
 label: Tamaño
 category: General

@@ -1,6 +1,9 @@
+uuid: 34856b3d-646e-4396-a0e6-3cf60fb064af
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: BC5-ZbC-Gh08pS-1H48uXh5I_t3-po0Cjl-ns_HGGQ0
 id: medium
 label: 'Fecha mediana por defecto'
 locked: false

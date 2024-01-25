@@ -1,3 +1,4 @@
+uuid: b161345a-8e03-4e69-89de-d67948af1c31
 langcode: es
 status: true
 dependencies:
@@ -7,6 +8,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_accordion_section
   module:
     - entity_reference_revisions
+_core:
+  default_config_hash: DSYdbWM5Asp1O2XLSLEKulmQK6_eArhrnM8gHD_fc-o
 id: paragraph.bp_accordion.bp_accordion_section
 field_name: bp_accordion_section
 entity_type: paragraph

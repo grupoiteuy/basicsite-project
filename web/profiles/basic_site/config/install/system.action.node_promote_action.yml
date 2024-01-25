@@ -1,8 +1,11 @@
+uuid: d38a8928-6355-4b28-96dc-070d38fb1383
 langcode: es
 status: true
 dependencies:
   module:
     - node
+_core:
+  default_config_hash: ar-hLhi-bORcCougBsLXRQ7r8ze8jqehCc7APO6m8SA
 id: node_promote_action
 label: 'Promocionar contenido a la página de inicio'
 type: node

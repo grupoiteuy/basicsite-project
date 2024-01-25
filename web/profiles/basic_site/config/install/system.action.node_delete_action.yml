@@ -1,8 +1,11 @@
+uuid: 331dfc97-ca67-4d4e-948a-d6bb8acce7b1
 langcode: es
 status: true
 dependencies:
   module:
     - node
+_core:
+  default_config_hash: p1NUwDT7m__jdMjnJRln60SZOqEIQeovXEP6BBG0Reg
 id: node_delete_action
 label: 'Eliminar contenido'
 type: node

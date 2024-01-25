@@ -1,6 +1,9 @@
+uuid: cf0433ec-747e-4263-959b-9c8d6e757b01
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: _rN5B0li3Yuq6T6g3aQEwsPwBBmKFAJ8T4ZRAYdqj58
 id: bp_columns
 label: 'Columns (Equal)'
 icon_uuid: null

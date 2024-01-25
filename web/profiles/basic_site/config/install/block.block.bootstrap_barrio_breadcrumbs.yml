@@ -1,12 +1,15 @@
+uuid: fcedd844-ecfa-4ddd-a4e0-868a419937c5
 langcode: es
 status: true
 dependencies:
   module:
     - system
   theme:
-    - seven
-id: enlacesdeayudaalanavegacion
-theme: seven
+    - bootstrap_barrio
+_core:
+  default_config_hash: xk8HAWIUZCzYFsUX2sNmTNDUxSoCdwrEI1tpTT5LW9s
+id: bootstrap_barrio_breadcrumbs
+theme: bootstrap_barrio
 region: breadcrumb
 weight: 0
 provider: null

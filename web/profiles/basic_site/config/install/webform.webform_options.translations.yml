@@ -1,9 +1,12 @@
+uuid: 91a129e1-ae7f-4b84-9af6-67684c605bb0
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: BTWLWc9KVszt974E1eEE5ESiCF4OboQCt98uCG3xG58
 id: translations
 label: Traducciones
 category: Idioma

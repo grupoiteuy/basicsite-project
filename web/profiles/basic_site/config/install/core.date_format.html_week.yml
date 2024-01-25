@@ -1,6 +1,9 @@
+uuid: 81c1f8ea-f23a-436d-a384-03cff9ada69c
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: 9UP63U8-E8ZOW4ZeyppJxY6WCfD1gufmDex3UsTPhLo
 id: html_week
 label: 'Semana HTML'
 locked: true

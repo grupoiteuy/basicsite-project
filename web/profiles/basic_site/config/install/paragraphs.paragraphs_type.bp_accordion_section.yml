@@ -1,6 +1,9 @@
+uuid: b6a0cea7-382d-4f68-adfb-f0c9fd85bf6f
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: AssGtJTFyutCE0oI6xmR-OXThEvIsYUn8x58O7WyOIs
 id: bp_accordion_section
 label: 'Accordion Section'
 icon_uuid: null

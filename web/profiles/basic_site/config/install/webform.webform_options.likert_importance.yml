@@ -1,9 +1,12 @@
+uuid: c77d8796-88db-442b-8699-6912cb44c93e
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: MQgVeayVl_atHKvUtpkGBWnajGgq5Zs_ejg_wgAgD6I
 id: likert_importance
 label: 'Likert: Importance'
 category: Likert

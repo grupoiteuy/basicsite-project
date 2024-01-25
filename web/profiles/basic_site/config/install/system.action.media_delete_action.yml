@@ -1,8 +1,11 @@
+uuid: 38bfedd6-b3ed-4401-9e97-a10749e3af96
 langcode: es
 status: true
 dependencies:
   module:
     - media
+_core:
+  default_config_hash: 4yzgsC5dFFJqqomyeoK-HycpnWlja8VA7Nw5GDsB-jg
 id: media_delete_action
 label: 'Eliminar medios'
 type: media

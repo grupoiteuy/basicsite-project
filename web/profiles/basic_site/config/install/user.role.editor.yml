@@ -1,13 +1,18 @@
+uuid: 280de749-659d-4613-b5e7-713a4755206e
 langcode: es
 status: true
 dependencies:
   config:
     - filter.format.full_html
   module:
+    - file
     - filter
+_core:
+  default_config_hash: 6jU5Kbm06-qJzEGMSOHccl7j02C0S9fiUSQdeE4EZxM
 id: editor
 label: Editor
 weight: -7
 is_admin: null
 permissions:
+  - 'delete own files'
   - 'use text format full_html'

@@ -1,9 +1,12 @@
+uuid: c009bc45-e2b6-42f9-9b98-df63c9ae9f6b
 langcode: es
 status: true
 dependencies:
   config:
     - field.storage.paragraph.bp_header
     - paragraphs.paragraphs_type.bp_view
+_core:
+  default_config_hash: g_Am0YDXwGMacbu8FB8NTB9EP74NelOVqVogPkGYMR0
 id: paragraph.bp_view.bp_header
 field_name: bp_header
 entity_type: paragraph

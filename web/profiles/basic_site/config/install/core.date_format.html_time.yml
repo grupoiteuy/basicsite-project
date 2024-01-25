@@ -1,6 +1,9 @@
+uuid: 51eb310a-ef67-449e-9f66-dee2fcf541c0
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: xh5OVOVrXTCBet_r5eCc1ufEFKGJmiL8o8cK5on697o
 id: html_time
 label: 'Hora HTML'
 locked: true

@@ -1,6 +1,9 @@
+uuid: f8e54b27-4bb5-4bba-ae55-782897a44df4
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: PNGlUo4NQ6BXffss9t_yK8Gagpaxc-kobaDQKJnf1Wc
 id: bp_accordion
 label: Accordion
 icon_uuid: null

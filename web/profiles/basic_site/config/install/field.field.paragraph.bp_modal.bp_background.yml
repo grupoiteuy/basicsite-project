@@ -1,3 +1,4 @@
+uuid: e2b999f0-2ed2-4cf7-ae4b-229123698d22
 langcode: es
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_modal
   module:
     - options
+_core:
+  default_config_hash: a9ANZ30V0mBZifVZ47OsQn7WPHQkuTO6s_SaOJxjFz0
 id: paragraph.bp_modal.bp_background
 field_name: bp_background
 entity_type: paragraph

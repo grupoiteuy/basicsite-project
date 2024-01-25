@@ -1,6 +1,9 @@
+uuid: 34953967-a06a-4760-85d5-e24d8ceadfaa
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: HTNlbjBe2m2CnwOQU1oCHtYe_2DZGM-RZDohNOCscuc
 id: entire_site
 label: 'Entire Site (do not use)'
 type: EntireSite

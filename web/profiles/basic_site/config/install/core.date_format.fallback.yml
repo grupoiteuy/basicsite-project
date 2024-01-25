@@ -1,6 +1,9 @@
+uuid: 505976c1-3ee9-42db-a321-7614af593a16
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: 30iVRjXQfGpOzsDlFIn8JGhKYXCSOUIvjg3-olGoa-c
 id: fallback
 label: 'Formato de fecha de respaldo'
 locked: true

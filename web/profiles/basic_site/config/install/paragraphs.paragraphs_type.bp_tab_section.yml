@@ -1,6 +1,9 @@
+uuid: dd66eeae-5734-4a90-8063-93873ea8d66a
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: gk_Dsm2QBybM_ls2-OmQl9IQEdhMRq0-ujDsWy2GnOA
 id: bp_tab_section
 label: 'Tab Section'
 icon_uuid: null

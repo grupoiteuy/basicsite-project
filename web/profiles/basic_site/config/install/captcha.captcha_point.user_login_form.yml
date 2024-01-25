@@ -1,6 +1,9 @@
+uuid: f1a86499-bde6-4ac4-95b4-6a6d27e8efca
 langcode: es
 status: false
 dependencies: {  }
+_core:
+  default_config_hash: m0MVS-BHr-63OH1Xx_GnNDjiJEigK06lzZhB2agvKdA
 formId: user_login_form
 captchaType: default
 label: user_login_form

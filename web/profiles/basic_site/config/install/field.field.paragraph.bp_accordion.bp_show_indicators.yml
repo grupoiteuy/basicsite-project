@@ -1,9 +1,12 @@
+uuid: 86d96d75-b9e8-4512-8ca4-f1a0bfd198d7
 langcode: es
 status: true
 dependencies:
   config:
     - field.storage.paragraph.bp_show_indicators
     - paragraphs.paragraphs_type.bp_accordion
+_core:
+  default_config_hash: H7-_iMHAnDnkGErwX9EZWMBafxOQkMo7mdVRoPAJ9y4
 id: paragraph.bp_accordion.bp_show_indicators
 field_name: bp_show_indicators
 entity_type: paragraph

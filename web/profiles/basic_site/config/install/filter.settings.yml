@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: VGd8_-Z8qd5H3jJvUQ5tLcBaMwlI43_a5d7zs2WqqFc
 langcode: es
 fallback_format: plain_text
 always_show_fallback_choice: false

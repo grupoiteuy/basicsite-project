@@ -1,9 +1,13 @@
+uuid: b1ac4402-956f-4b31-a406-3fb040dc66fe
 langcode: es
 status: true
 dependencies:
   module:
     - file
+_core:
+  default_config_hash: hcZfNRvwygrDwaC9Py6SU5TI1AbHUZNJ67KAN2XNpig
 id: file.token
 label: Token
+description: ''
 targetEntityType: file
 cache: true

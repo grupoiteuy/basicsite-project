@@ -1,9 +1,12 @@
+uuid: b184f367-0169-4e01-b4df-ada23514e97a
 langcode: es
 status: true
 dependencies:
   config:
     - field.storage.paragraph.bp_header
     - paragraphs.paragraphs_type.bp_columns_three_uneven
+_core:
+  default_config_hash: THQeeX38DsTKBBwRBWKuxeTFUG9Rm-92IoIdSpBtOEU
 id: paragraph.bp_columns_three_uneven.bp_header
 field_name: bp_header
 entity_type: paragraph

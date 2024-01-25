@@ -1,8 +1,11 @@
+uuid: 7763b517-b4b6-4e3c-ac5d-df05b81cb8b2
 langcode: es
 status: true
 dependencies:
   module:
     - webform
+_core:
+  default_config_hash: ilnieiX-k4HJRBpu3AHdFsPAVSiKJ4Q8R2rnzTelsUw
 id: webform_submission_make_unlock_action
 label: 'Unlock submission'
 type: webform_submission

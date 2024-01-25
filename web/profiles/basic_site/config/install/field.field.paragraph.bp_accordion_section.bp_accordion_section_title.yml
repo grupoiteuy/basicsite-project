@@ -1,9 +1,12 @@
+uuid: cd6560f6-24b1-4d18-82e3-3835e99dcee3
 langcode: es
 status: true
 dependencies:
   config:
     - field.storage.paragraph.bp_accordion_section_title
     - paragraphs.paragraphs_type.bp_accordion_section
+_core:
+  default_config_hash: BqnmUABULlFAfDD7zSF3TQIWW3vEH7zZAYr_AMhW-Cw
 id: paragraph.bp_accordion_section.bp_accordion_section_title
 field_name: bp_accordion_section_title
 entity_type: paragraph

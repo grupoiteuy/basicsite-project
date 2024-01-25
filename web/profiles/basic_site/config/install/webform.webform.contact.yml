@@ -1,9 +1,12 @@
+uuid: 408fbd5d-f4ec-4d48-92e1-678b2c99213c
 langcode: es
 status: open
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: 8KOeuwp9u8iOc6E09ocF23OIXAgkk2dwN9AqbVFUyX4
 open: null
 close: null
 weight: 0
@@ -13,7 +16,7 @@ archive: false
 id: contact
 title: Contacto
 description: 'Basic email contact webform.'
-category: ''
+categories: {  }
 elements: |
   name:
     '#title': 'Your Name'

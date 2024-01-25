@@ -1,9 +1,12 @@
+uuid: 238981c5-1310-47c4-930c-d589ea4d4507
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: Sj_mBCj2RdlDYid0KLMPYD1BBXxlpXPmlIUgNyuClFY
 id: country_codes
 label: 'Country codes'
 category: Geográfico

@@ -1,6 +1,9 @@
+uuid: 2ed3a38a-9c64-4950-8f45-2a1b4c796364
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: bzR0iElPviaRmQ679TstMWChiP-QrZaiXUWTQckODXs
 id: main
 label: 'Navegación principal'
 description: 'Enlaces de secciones del sitio'

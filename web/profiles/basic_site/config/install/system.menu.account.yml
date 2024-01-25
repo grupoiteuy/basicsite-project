@@ -1,6 +1,9 @@
+uuid: c976df7c-adaa-4a00-a0c1-8f1bd138e2d9
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: WMPw8JYnu3Lw_YJRQmnpn8kIgOy_2Y1t2jmz4eOUYVQ
 id: account
 label: 'Menú de cuenta de usuario'
 description: 'Enlaces relacionados con la cuenta del usuario activo'

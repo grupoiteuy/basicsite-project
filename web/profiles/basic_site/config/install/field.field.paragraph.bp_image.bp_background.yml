@@ -1,3 +1,4 @@
+uuid: 092254f9-75e9-4c0b-a73c-31052331de80
 langcode: es
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_image
   module:
     - options
+_core:
+  default_config_hash: nn_gnqlZyU4c6SXiPJdscOh_OQKyBrZH_nuuBAfhgG4
 id: paragraph.bp_image.bp_background
 field_name: bp_background
 entity_type: paragraph

@@ -1,11 +1,15 @@
+uuid: 1ad9e657-036f-4422-899a-6857c106e9d9
 langcode: es
 status: true
 dependencies:
   module:
+    - file
     - fontawesome
     - google_analytics
     - media
     - system
+_core:
+  default_config_hash: jqwq2Zv1YBl52g7V_flVrqWMC1LffIFW-ibgWZCGZjs
 id: authenticated
 label: 'Usuario autenticado'
 weight: -9
@@ -13,5 +17,6 @@ is_admin: false
 permissions:
   - 'access content'
   - 'access fontawesome additional settings'
+  - 'delete own files'
   - 'opt-in or out of google analytics tracking'
   - 'view media'

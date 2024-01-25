@@ -1,4 +1,13 @@
+_core:
+  default_config_hash: ppLVXC2M5wbsEt6R12QMnFTALwGFhLhugrZfrMKzGUY
 langcode: es
 interface:
   default: php_mail
   webform: webform_php_mail
+mailer_dsn:
+  scheme: sendmail
+  host: default
+  user: null
+  password: null
+  port: null
+  options: {  }

@@ -1,3 +1,4 @@
+uuid: 95a9caf3-f50a-4d58-90e6-7dfb2c708808
 langcode: es
 status: true
 dependencies:
@@ -7,6 +8,8 @@ dependencies:
     - system
   theme:
     - grupoite
+_core:
+  default_config_hash: jT0nC4AHs1ZokstDCwbksIKK8xJyAxesMxukYkc1i3Y
 id: navegacionprincipal
 theme: grupoite
 region: primary_menu

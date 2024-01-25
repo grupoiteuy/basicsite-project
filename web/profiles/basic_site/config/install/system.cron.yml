@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: eyzKcHCkjlo3YWh7SOP9IzZD_Fn150z4hlEr2Qzetw4
 langcode: es
 threshold:
   requirements_warning: 172800

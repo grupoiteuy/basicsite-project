@@ -1,3 +1,4 @@
+uuid: 21cdd8c1-0aa5-4b8d-bc2b-ef7f2f28447a
 langcode: es
 status: true
 dependencies:
@@ -7,6 +8,8 @@ dependencies:
     - image
     - media
     - user
+_core:
+  default_config_hash: Sm6nTD_17mN50PZR_4gS4jW2LGc6pBIABcSWoXyefUM
 id: media
 label: Multimedia
 module: views
@@ -445,6 +448,15 @@ display:
             date_format: short
             custom_date_format: ''
             timezone: ''
+            tooltip:
+              date_format: ''
+              custom_date_format: ''
+            time_diff:
+              enabled: false
+              future_format: '@interval hence'
+              past_format: '@interval ago'
+              granularity: 2
+              refresh: 60
           group_column: value
           group_columns: {  }
           group_rows: true

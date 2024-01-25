@@ -1,9 +1,12 @@
+uuid: 169b33ef-8092-4931-9c17-d891d37e5b48
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: Peh-GquIpLWKO6dnG8Zg8g5LxDhtuYHa_qgDhGIwGSQ
 id: sex
 label: Sexo
 category: Demográfico

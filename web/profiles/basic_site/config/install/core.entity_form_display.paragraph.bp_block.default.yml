@@ -1,3 +1,4 @@
+uuid: 4035cd2f-69b7-4c95-a6bf-4ca6f1b2eaad
 langcode: es
 status: true
 dependencies:
@@ -7,6 +8,8 @@ dependencies:
     - field.field.paragraph.bp_block.bp_header
     - field.field.paragraph.bp_block.bp_width
     - paragraphs.paragraphs_type.bp_block
+_core:
+  default_config_hash: yez3xyX4yRbC7dc_viqFcoHxWVHEWeRgN0TZizb3620
 id: paragraph.bp_block.default
 targetEntityType: paragraph
 bundle: bp_block

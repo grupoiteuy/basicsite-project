@@ -1,9 +1,12 @@
+uuid: 2cd094f9-f8e8-42cc-9b53-82d2b4649010
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: Obm40uj3iL4yST4etbEX-Dscr8c5ct7tWUeCtCCUeyc
 id: titles
 label: Títulos
 category: Demográfico

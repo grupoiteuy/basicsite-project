@@ -1,8 +1,11 @@
+uuid: 29132586-eb09-4e5e-bb5a-e4e1dd1fa7cc
 langcode: es
 status: true
 dependencies:
   module:
     - node
+_core:
+  default_config_hash: Ej1P1_rESci8Towe3B6HPqS-rldfbSC3P1rGysq7aII
 id: node_make_sticky_action
 label: 'Fijar contenido'
 type: node

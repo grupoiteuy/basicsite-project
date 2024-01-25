@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: JX1R-YFxRlMdtQ8XWHPkqD83colTozIToDmTeOxqD6U
 langcode: es
 allow_insecure_uploads: false
 default_scheme: public

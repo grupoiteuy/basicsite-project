@@ -1,6 +1,9 @@
+uuid: 25f1a928-be3e-4051-8a09-f5f39fa8ad31
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: 75UuI8fzhDywYeTuj4akPurKL14L6ZBDba37nhOSb7w
 id: bp_view
 label: View
 icon_uuid: null

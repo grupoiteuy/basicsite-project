@@ -1,9 +1,13 @@
+uuid: 61360aed-0631-4dbf-8621-bfdab2c1ae98
 langcode: es
 status: true
 dependencies:
   module:
     - shortcut
+_core:
+  default_config_hash: bLgGXLP-IEq1ht8TKamD_bjmEGdBJbSDeLRX8Ejr4A0
 id: shortcut.token
 label: Token
+description: ''
 targetEntityType: shortcut
 cache: true

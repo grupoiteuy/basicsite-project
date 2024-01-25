@@ -1,8 +1,11 @@
+uuid: 9b18854e-b4d5-49a5-897c-5badf055033d
 langcode: es
 status: true
 dependencies:
   module:
     - taxonomy
+_core:
+  default_config_hash: FJgZsug2HtIvAjFkLdoFLiwoi-IJlDOmuZPVPyiWwiU
 id: taxonomy_term_unpublish_action
 label: 'Despublicar término de taxonomía'
 type: taxonomy_term

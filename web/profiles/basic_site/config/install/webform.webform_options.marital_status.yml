@@ -1,9 +1,12 @@
+uuid: dea9c472-c2a5-4b31-96b6-75c6b24044e1
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: pFADHMf8yaxzQ4ZgRC7H4QOzjiIRf6abycTy9frMqHY
 id: marital_status
 label: 'Marital status'
 category: Demográfico

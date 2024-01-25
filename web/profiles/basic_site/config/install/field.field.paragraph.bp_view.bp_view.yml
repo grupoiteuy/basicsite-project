@@ -1,3 +1,4 @@
+uuid: 3ba890df-1014-432e-bfc5-adb2a7907274
 langcode: es
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_view
   module:
     - viewsreference
+_core:
+  default_config_hash: '-7fQYFpUpCr-S2vVJmO_qGbZUY_7WRjK5VqFkl8at9k'
 id: paragraph.bp_view.bp_view
 field_name: bp_view
 entity_type: paragraph
@@ -22,4 +25,7 @@ settings:
   plugin_types:
     block: block
   preselect_views: {  }
+  enabled_settings:
+    argument: argument
+    title: true
 field_type: viewsreference

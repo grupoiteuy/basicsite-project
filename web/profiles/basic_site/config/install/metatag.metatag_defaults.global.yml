@@ -1,6 +1,9 @@
+uuid: 9b7ec575-c442-4a3d-a47d-cc6609dd445f
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: YUMECK3XOev-6v4RGyYw8ZfQKWthaEWJi0uKJwBA-lw
 id: global
 label: Global
 tags:

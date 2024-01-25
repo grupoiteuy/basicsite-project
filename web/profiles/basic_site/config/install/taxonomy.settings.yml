@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: bbBe8OY-cHQtEfeBtRwvivB1VSadoibLVjuahyQq6cE
 langcode: es
 maintain_index_table: true
 override_selector: false

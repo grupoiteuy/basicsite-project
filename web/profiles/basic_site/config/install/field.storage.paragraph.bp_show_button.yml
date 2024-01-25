@@ -1,8 +1,11 @@
+uuid: 4f91a081-60ff-4826-b69c-7d45bdd83f63
 langcode: es
 status: true
 dependencies:
   module:
     - paragraphs
+_core:
+  default_config_hash: v09uhHyGYpVysoajQsF1wczOwen5p9ekkeL1dK-E7B8
 id: paragraph.bp_show_button
 field_name: bp_show_button
 entity_type: paragraph

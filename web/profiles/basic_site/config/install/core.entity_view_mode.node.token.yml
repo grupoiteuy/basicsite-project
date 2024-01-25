@@ -1,9 +1,13 @@
+uuid: eda95e74-a5c6-4f48-8c57-1c4ff5eda2bb
 langcode: es
 status: true
 dependencies:
   module:
     - node
+_core:
+  default_config_hash: MtC0d1F5MPIo28RaVoLfXj0-F_bJqzphnDhhPlj0OXw
 id: node.token
 label: Token
+description: ''
 targetEntityType: node
 cache: true

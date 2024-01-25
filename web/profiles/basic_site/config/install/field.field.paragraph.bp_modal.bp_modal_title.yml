@@ -1,9 +1,12 @@
+uuid: e8bb70d9-2007-4810-b286-5a90ff0334ce
 langcode: es
 status: true
 dependencies:
   config:
     - field.storage.paragraph.bp_modal_title
     - paragraphs.paragraphs_type.bp_modal
+_core:
+  default_config_hash: NulO2atvl6ObMLR7nOeBNGKRA-1bRiba7_ZfCsGJl-o
 id: paragraph.bp_modal.bp_modal_title
 field_name: bp_modal_title
 entity_type: paragraph

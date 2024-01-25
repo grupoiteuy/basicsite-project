@@ -1,9 +1,12 @@
+uuid: 76ecd1d6-ad2d-417c-82dc-c249d3e417fb
 langcode: es
 status: true
 dependencies:
   module:
     - options
     - paragraphs
+_core:
+  default_config_hash: DWFdEIkPD6sykSL8O1eG0olbnhQq1gVcIYX8bszFT9M
 id: paragraph.bp_slide_interval
 field_name: bp_slide_interval
 entity_type: paragraph

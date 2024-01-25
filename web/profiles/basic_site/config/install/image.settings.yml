@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: SCqwIrE_5NvVnh1evi-tEOOt0_jKj6igt9cOKN1Fr1k
 langcode: es
 preview_image: core/modules/image/sample.png
 allow_insecure_derivatives: false

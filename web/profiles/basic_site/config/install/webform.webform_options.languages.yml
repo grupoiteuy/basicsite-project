@@ -1,9 +1,12 @@
+uuid: 1e92f7cb-495c-4e1b-93b7-5acf8d646544
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: jf9knUAIzSz2UWbIrYTL3bQJheGes_XISkjXTPLNx-k
 id: languages
 label: Idiomas
 category: Idioma

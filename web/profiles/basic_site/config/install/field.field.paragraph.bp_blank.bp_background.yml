@@ -1,3 +1,4 @@
+uuid: 61d971bf-6320-4a64-a63e-7377838ee75c
 langcode: es
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_blank
   module:
     - options
+_core:
+  default_config_hash: tD8SinTZ_4J40AWkGIRkd-P2RPhub4RTMlyqBcL7cuo
 id: paragraph.bp_blank.bp_background
 field_name: bp_background
 entity_type: paragraph

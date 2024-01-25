@@ -1,9 +1,12 @@
+uuid: f90a3035-eb67-4a76-8a07-2840ec54b6b2
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: PfSC5vrsrqUTjlFO48qwiJcVhk2CpKPmBygSjXRX1J4
 id: phone_types
 label: 'Phone type'
 category: Demográfico

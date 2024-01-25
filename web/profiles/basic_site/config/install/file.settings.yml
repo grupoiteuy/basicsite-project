@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: R56cum5xBNMpit-UtLTb4dNSyxevEH8R8f3iq-HepxM
 langcode: es
 description:
   type: textfield
@@ -5,3 +7,10 @@ description:
 icon:
   directory: core/modules/file/icons
 make_unused_managed_files_temporary: false
+filename_sanitization:
+  transliterate: false
+  replace_whitespace: false
+  replace_non_alphanumeric: false
+  deduplicate_separators: false
+  lowercase: false
+  replacement_character: '-'

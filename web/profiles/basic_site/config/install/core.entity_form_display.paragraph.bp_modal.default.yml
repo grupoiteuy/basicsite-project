@@ -1,3 +1,4 @@
+uuid: 578fcc12-a24e-4bab-8831-db9c25aa8b51
 langcode: es
 status: true
 dependencies:
@@ -12,6 +13,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_modal
   module:
     - paragraphs
+_core:
+  default_config_hash: LUkaH9hnu3brAEbjmWpj3j37y1N8MTIA6i0rzZ9Na8Q
 id: paragraph.bp_modal.default
 targetEntityType: paragraph
 bundle: bp_modal

@@ -1,12 +1,15 @@
+uuid: 48f830d8-2424-4495-ba17-f6b86c28b547
 langcode: es
 status: true
 dependencies:
   theme:
-    - seven
-id: accionesprincipalesdeadministracion
-theme: seven
+    - bootstrap_barrio
+_core:
+  default_config_hash: MY-b6RFbUcofefyaeI8uMqaPh2bJOasn2y1bvGVF4dw
+id: bootstrap_barrio_primary_admin_actions
+theme: bootstrap_barrio
 region: content
-weight: 0
+weight: -6
 provider: null
 plugin: local_actions_block
 settings:

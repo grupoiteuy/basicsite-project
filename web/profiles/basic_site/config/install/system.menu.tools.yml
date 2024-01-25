@@ -1,6 +1,9 @@
+uuid: 5f7c5efc-51c6-49e7-8685-80f54a15ca52
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: GzlBKG86vEEAI0webXw0ekQGczaUMJhP-8l6AlLBb1s
 id: tools
 label: Herramientas
 description: 'Enlaces de herramientas de usuario. Los suelen añadir los módulos'

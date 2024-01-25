@@ -1,9 +1,12 @@
+uuid: f9c03e73-8896-47bd-9165-889f136578ef
 langcode: es
 status: true
 dependencies:
   config:
     - field.storage.paragraph.bp_modal_button_text
     - paragraphs.paragraphs_type.bp_modal
+_core:
+  default_config_hash: hxLB0K-uxxnoFQFXvJBs5ImYfVuKGaw1OQ3gt4kaScE
 id: paragraph.bp_modal.bp_modal_button_text
 field_name: bp_modal_button_text
 entity_type: paragraph

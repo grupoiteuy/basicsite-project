@@ -1,15 +1,19 @@
+uuid: c8e5f8fe-efb1-4200-838d-da9d85ce3a23
 langcode: es
 status: true
 dependencies:
   module:
     - node
-label: Default
+_core:
+  default_config_hash: K7duXSuwTFcEBaz5ENOnhreAovHpocBKPNmUxQES88Q
 id: default
+label: Default
 description: 'A default Linkit profile'
 matchers:
   556010a3-e317-48b3-b4ed-854c10f4b950:
-    id: 'entity:node'
     uuid: 556010a3-e317-48b3-b4ed-854c10f4b950
+    id: 'entity:node'
+    weight: 0
     settings:
       metadata: 'by [node:author] | [node:created:medium]'
       bundles: {  }
@@ -17,4 +21,3 @@ matchers:
       substitution_type: canonical
       limit: 100
       include_unpublished: false
-    weight: 0

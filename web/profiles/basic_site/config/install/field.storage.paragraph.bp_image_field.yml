@@ -1,3 +1,4 @@
+uuid: db9e37d6-3f2b-4084-906f-4acb52286f92
 langcode: es
 status: true
 dependencies:
@@ -5,6 +6,8 @@ dependencies:
     - file
     - image
     - paragraphs
+_core:
+  default_config_hash: 99RFCSgy2-5xLxzwb_rcrYKBv-Vhywh9P7LJIrQrAPQ
 id: paragraph.bp_image_field
 field_name: bp_image_field
 entity_type: paragraph

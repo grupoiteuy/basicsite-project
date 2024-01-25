@@ -1,6 +1,9 @@
+uuid: 38f1df3d-7a12-4c86-9866-536577a9e24f
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: g_43PqzzeaOxv75JDuypPfjEbe4-996QrSA-d-M41jw
 id: bp_carousel
 label: Carrusel
 icon_uuid: null

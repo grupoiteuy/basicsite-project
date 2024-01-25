@@ -1,9 +1,12 @@
+uuid: 556f5c91-d065-4f73-9ade-73da8a77dbbb
 langcode: es
 status: false
 dependencies:
   enforced:
     module:
       - slick
+_core:
+  default_config_hash: G61crl23fQEdf96Ixdt4OoFC8xR9rh57kBXfRodVsC0
 id: default
 name: default
 weight: -10

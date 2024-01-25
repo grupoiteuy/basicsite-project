@@ -1,6 +1,9 @@
+uuid: 0c4f4226-3819-4096-b308-80a72c84ec4b
 langcode: es
 status: false
 dependencies: {  }
+_core:
+  default_config_hash: 81JrKNmwxGtRoZRpEOU0ScGcSh0gzwbA19sImeHYhB8
 formId: node_page_form
 captchaType: default
 label: node_page_form

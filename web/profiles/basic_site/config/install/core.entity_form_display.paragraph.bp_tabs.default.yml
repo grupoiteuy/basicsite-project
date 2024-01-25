@@ -1,3 +1,4 @@
+uuid: 2794d856-dc46-47b4-8266-a26cf6c4b48e
 langcode: es
 status: true
 dependencies:
@@ -9,6 +10,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_tabs
   module:
     - paragraphs
+_core:
+  default_config_hash: FM8MdtvW24vhfTL7aRdK9JzdIe5lM6MAWTVimFJtq30
 id: paragraph.bp_tabs.default
 targetEntityType: paragraph
 bundle: bp_tabs

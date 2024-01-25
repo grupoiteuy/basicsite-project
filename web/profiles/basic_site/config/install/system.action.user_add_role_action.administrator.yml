@@ -1,3 +1,4 @@
+uuid: 4563b758-a44c-4b23-8a49-11e45b9ce03f
 langcode: es
 status: true
 dependencies:
@@ -5,6 +6,8 @@ dependencies:
     - user.role.administrator
   module:
     - user
+_core:
+  default_config_hash: _lxN3otQI5Aon0-ik3TGpBQA-fCtv1k_4KyqNL2r1Ps
 id: user_add_role_action.administrator
 label: 'Añade el rol Administrador al(los) usuario(s) seleccionado(s)'
 type: user

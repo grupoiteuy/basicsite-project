@@ -1,8 +1,11 @@
+uuid: 48f3632c-5335-4d86-b2d1-73dae70e3e52
 langcode: es
 status: true
 dependencies:
   module:
     - user
+_core:
+  default_config_hash: Q91EBgAFVYo_47IdylRfz5SuHGxOZ49Jkr0Zd6_yUu4
 id: user_unblock_user_action
 label: 'Desbloquear al usuario o usuarios seleccionados'
 type: user

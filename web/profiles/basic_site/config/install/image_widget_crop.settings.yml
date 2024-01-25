@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: 7B7kjFCvEyqS69WLLfvBS6QQFqO4A3SplO37xZh6hSg
 langcode: es
 settings:
   library_url: ''

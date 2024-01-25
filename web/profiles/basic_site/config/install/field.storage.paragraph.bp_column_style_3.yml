@@ -1,9 +1,12 @@
+uuid: 32ff3703-0771-487f-89fb-50718614bbae
 langcode: es
 status: true
 dependencies:
   module:
     - options
     - paragraphs
+_core:
+  default_config_hash: v9252QHqnv1JUDLJnD1PBUVHvNpXnJz2MV7F1L5ae3k
 id: paragraph.bp_column_style_3
 field_name: bp_column_style_3
 entity_type: paragraph

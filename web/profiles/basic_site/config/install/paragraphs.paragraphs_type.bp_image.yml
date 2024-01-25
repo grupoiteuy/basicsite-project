@@ -1,6 +1,9 @@
+uuid: aaf9312a-27e0-4ea4-8270-466b05221d1d
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: NIM71c7akEBh7FsfksawsI2TfP0B32hCJJGlY74tPvk
 id: bp_image
 label: Image
 icon_uuid: null

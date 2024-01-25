@@ -1,9 +1,13 @@
+uuid: 02212138-cf6a-4c70-bd4e-1a07c62e6afc
 langcode: es
 status: true
 dependencies:
   module:
     - media
+_core:
+  default_config_hash: GGsu97FjffKXKUeqGjP24I3wllpFxiD-qVxyijXwrJc
 id: media.token
 label: Token
+description: ''
 targetEntityType: media
 cache: true

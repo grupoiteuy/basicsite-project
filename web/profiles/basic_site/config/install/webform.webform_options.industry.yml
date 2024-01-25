@@ -1,9 +1,12 @@
+uuid: f94c914e-1ea6-4cd9-81d5-d57b7bcc739f
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: lbIQ-pz67o_KTd3YfEE4hQIUHEdnp_beX5Hiks0_uKU
 id: industry
 label: Industry
 category: Demográfico

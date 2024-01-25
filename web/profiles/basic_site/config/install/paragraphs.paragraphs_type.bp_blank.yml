@@ -1,6 +1,9 @@
+uuid: 41de21b2-bb50-49e7-9f6a-9e40e22e72b6
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: ln2Vqf_M5wXh2RSSiD9NjsyFVzNb-mUKLchSWusYoXk
 id: bp_blank
 label: Blank
 icon_uuid: null

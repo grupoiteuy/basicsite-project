@@ -1,6 +1,9 @@
+uuid: 41577547-4942-4cb2-a01c-9e4987c3fc35
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: j06Zc5VtWkLHs0mxodQpYmPZBpuTs2uZlj8DUbjWh84
 id: footer
 label: 'Pie de página'
 description: 'Enlaces de información del sitio'

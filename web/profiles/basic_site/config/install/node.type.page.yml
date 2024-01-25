@@ -1,3 +1,4 @@
+uuid: 06eac9c1-5879-44ef-a030-19277de009e2
 langcode: es
 status: true
 dependencies:
@@ -8,6 +9,8 @@ third_party_settings:
     available_menus:
       - main
     parent: 'main:'
+_core:
+  default_config_hash: sISGVRvIU_g2bqYcbn-BMQNaLB1h4v_nXXqKMNd6zAo
 name: 'Página básica'
 type: page
 description: ''

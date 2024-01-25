@@ -1,5 +1,8 @@
+_core:
+  default_config_hash: RPHxPdJgq73_Eom2zjmlnqUgEHxEhWg1p6lx_O3THMk
 langcode: es
-name: 'Basic Site'
+uuid: 82943cfb-aa21-4398-bcca-c503e32956f4
+name: BS
 mail: info@grupoite.com.uy
 slogan: ''
 page:

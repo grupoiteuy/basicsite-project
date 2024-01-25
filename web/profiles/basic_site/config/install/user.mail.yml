@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: RTF39d0ju4_-6RW-Awl17Kcvc4qKi6TKDFGZlX3k65M
 langcode: es
 cancel_confirm:
   subject: 'Solicitud de cancelación de cuenta para [user:display-name] en [site:name]'

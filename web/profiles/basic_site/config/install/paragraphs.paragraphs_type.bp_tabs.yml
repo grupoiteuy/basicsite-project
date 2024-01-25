@@ -1,6 +1,9 @@
+uuid: 14669c0d-cbef-4b65-bdcf-2044d213c0b0
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: 5QC0wlt78tMNl_5_oHWhNPiz3l_Q-J3uspcR2fprDFA
 id: bp_tabs
 label: Tabs
 icon_uuid: null

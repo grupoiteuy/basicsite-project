@@ -1,9 +1,11 @@
+_core:
+  default_config_hash: 3Vf1Yxq_E0FglS0mNSl1IW1ly6YRF5CoY8bouac8L0w
 langcode: es
 check:
   disabled_extensions: false
   interval_days: 1
 fetch:
-  url: ''
+  url: null
   max_attempts: 2
   timeout: 30
 notification:

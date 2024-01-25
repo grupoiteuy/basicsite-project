@@ -1,8 +1,11 @@
+uuid: 5b5da11f-efac-4d26-a75c-340dd49811d9
 langcode: es
 status: true
 dependencies:
   module:
     - webform
+_core:
+  default_config_hash: 9RX_GKaz_jxJeshmaYFyMyWNTbkunK-BzPN3XpUKeQQ
 id: webform_unarchive_action
 label: 'Restore webform'
 type: webform

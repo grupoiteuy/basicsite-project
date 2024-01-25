@@ -1,6 +1,9 @@
+uuid: 7ce0e4bf-f036-4f25-96ee-6c89d1929707
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: vX20z8ohyppNTXkX0Xn6dm-AdIRqjziPY_6zQSavufE
 id: short
 label: 'Fecha corta por defecto'
 locked: false

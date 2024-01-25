@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: rHdNA-yG7lk3T7bA6sqkSRGR_mo7zrsxIC88bE6VTc0
 langcode: es
 enabled_entity_types:
   - user

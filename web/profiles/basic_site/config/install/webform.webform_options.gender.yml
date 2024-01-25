@@ -1,9 +1,12 @@
+uuid: 6bcb601b-3efe-4b0f-8847-7c2449202f24
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: T4JvI8ddxM3eShTwplOTRmcixc6JRJASlE_3aTvG2SM
 id: gender
 label: Género
 category: Demográfico

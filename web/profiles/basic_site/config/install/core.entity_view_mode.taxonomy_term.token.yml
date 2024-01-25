@@ -1,9 +1,13 @@
+uuid: 3fb5017d-38de-4c9d-b8dc-d3ca12a66666
 langcode: es
 status: true
 dependencies:
   module:
     - taxonomy
+_core:
+  default_config_hash: 81Em-H6qh6SShgjGsoR_HKvLlnRZzWKQFI9tdRk2PPk
 id: taxonomy_term.token
 label: Token
+description: ''
 targetEntityType: taxonomy_term
 cache: true

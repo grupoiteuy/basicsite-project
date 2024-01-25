@@ -1,9 +1,12 @@
+uuid: 19642979-9b5b-4cbd-8fef-50cbb9315d4e
 langcode: es
 status: true
 dependencies:
   module:
     - media
     - system
+_core:
+  default_config_hash: 4B-YbGQlIOg8orIo-UNNJFlVVJczR5BVvrUjlv3pdlA
 id: anonymous
 label: 'Usuario anónimo'
 weight: -10

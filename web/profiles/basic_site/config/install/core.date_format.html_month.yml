@@ -1,6 +1,9 @@
+uuid: cc5814cf-50c4-4c64-af25-cd8cb377ec04
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: XW5H7sWMZW5h_ragDwz2Y98pxXfpvK-7aIub5hBDwmo
 id: html_month
 label: 'Mes HTML'
 locked: true

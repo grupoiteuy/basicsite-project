@@ -1,6 +1,9 @@
+uuid: fc0a49f9-5dd6-4d89-9edf-26996a7a6a07
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: PjbDqRcwZO9zQN41oMrr8PsBw-ERLLijnQJXA5CYUng
 id: bp_columns_three_uneven
 label: 'Columns (Three Uneven)'
 icon_uuid: null

@@ -1,3 +1,4 @@
+uuid: 4b3291e5-a386-41ac-a1ad-f04ea6f21022
 langcode: es
 status: true
 dependencies:
@@ -6,7 +7,10 @@ dependencies:
   enforced:
     module:
       - media_library
+_core:
+  default_config_hash: r_SzkTzGMuq5GB2sHThJ0g-9UMtUuolVi_CmX3v8MmU
 id: media.media_library
 label: 'Media library'
+description: ''
 targetEntityType: media
 cache: true

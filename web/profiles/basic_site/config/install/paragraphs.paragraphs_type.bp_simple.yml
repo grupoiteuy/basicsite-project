@@ -1,6 +1,9 @@
+uuid: b6c725a5-4ad8-4966-9918-0da0f6036679
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: FiElsvXEOrdZhY0vD-5Zl3FmwO_esR-MKHvuUa_p1ug
 id: bp_simple
 label: Simple
 icon_uuid: null

@@ -1,9 +1,12 @@
+uuid: cf31e1a8-7125-42fc-9fba-9e631cf8e34b
 langcode: es
 status: true
 dependencies:
   module:
     - node
     - user
+_core:
+  default_config_hash: RouBOgDeEk3BtvRMbqGLSACy37ezEwV4mz2L7Xq-Mmo
 id: content
 label: Contenido
 module: node
@@ -184,6 +187,15 @@ display:
             date_format: short
             custom_date_format: ''
             timezone: ''
+            tooltip:
+              date_format: ''
+              custom_date_format: ''
+            time_diff:
+              enabled: false
+              future_format: '@interval hence'
+              past_format: '@interval ago'
+              granularity: 2
+              refresh: 60
         operations:
           id: operations
           table: node

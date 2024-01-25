@@ -1,3 +1,4 @@
+uuid: a110fb97-03a7-4e0f-9f19-93d1c179fada
 langcode: es
 status: true
 dependencies:
@@ -9,6 +10,8 @@ dependencies:
     - entity_reference_revisions
     - text
     - user
+_core:
+  default_config_hash: LBFKf7wSMEm2UUEGQce9fqOSV427y8rc7h2xtRccSuY
 id: node.page.default
 targetEntityType: node
 bundle: page

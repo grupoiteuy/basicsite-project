@@ -1,64 +1,51 @@
+uuid: 53177ec5-ee71-40cc-85ef-fcc2bf191e5f
 langcode: es
 status: true
 dependencies:
   config:
     - filter.format.full_html
   module:
-    - ckeditor
+    - ckeditor5
 format: full_html
-editor: ckeditor
+editor: ckeditor5
 settings:
   toolbar:
-    rows:
-      -
-        -
-          name: Formato
-          items:
-            - Bold
-            - Italic
-            - Underline
-            - Superscript
-            - RemoveFormat
-            - JustifyLeft
-            - JustifyCenter
-            - JustifyRight
-            - JustifyBlock
-            - PasteText
-            - PasteFromWord
-        -
-          name: Enlaces
-          items:
-            - DrupalLink
-            - DrupalUnlink
-        -
-          name: Listas
-          items:
-            - BulletedList
-            - NumberedList
-        -
-          name: Multimedia
-          items:
-            - Blockquote
-            - DrupalImage
-            - HorizontalRule
-        -
-          name: Herramientas
-          items:
-            - Format
-            - Styles
-            - Maximize
-            - Source
+    items:
+      - bold
+      - italic
+      - strikethrough
+      - superscript
+      - subscript
+      - removeFormat
+      - '|'
+      - link
+      - '|'
+      - bulletedList
+      - numberedList
+      - '|'
+      - insertTable
+      - '|'
+      - blockQuote
+      - drupalInsertImage
+      - '|'
+      - sourceEditing
   plugins:
-    stylescombo:
-      styles: ''
-    drupallink:
+    ckeditor5_imageResize:
+      allow_resize: true
+    ckeditor5_list:
+      properties:
+        reversed: true
+        startIndex: true
+      multiBlock: true
+    ckeditor5_sourceEditing:
+      allowed_tags: {  }
+    linkit_extension:
       linkit_enabled: false
-      linkit_profile: ''
 image_upload:
-  status: false
+  status: true
   scheme: public
   directory: inline-images
-  max_size: ''
+  max_size: '4 MB'
   max_dimensions:
-    width: null
-    height: null
+    width: 0
+    height: 0

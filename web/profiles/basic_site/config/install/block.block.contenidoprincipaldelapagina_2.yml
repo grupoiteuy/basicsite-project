@@ -1,3 +1,4 @@
+uuid: 5840e503-294a-44f9-807a-86459cecb9fe
 langcode: es
 status: true
 dependencies:
@@ -5,6 +6,8 @@ dependencies:
     - system
   theme:
     - grupoite
+_core:
+  default_config_hash: wuMp08a6ZU-WPSQF5s9JM-IsUZKKI_k2YyCoQpELE2o
 id: contenidoprincipaldelapagina_2
 theme: grupoite
 region: content

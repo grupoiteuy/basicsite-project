@@ -1,9 +1,12 @@
+uuid: 0d518d57-fcd9-4927-b99e-e166fdacfaa4
 langcode: es
 status: true
 dependencies:
   config:
     - field.storage.paragraph.bp_show_button
     - paragraphs.paragraphs_type.bp_accordion_section
+_core:
+  default_config_hash: 6zyjpjKw8p4Z0TNBlKX3kaUw596XIbMA5eqdp5lrx6I
 id: paragraph.bp_accordion_section.bp_show_button
 field_name: bp_show_button
 entity_type: paragraph

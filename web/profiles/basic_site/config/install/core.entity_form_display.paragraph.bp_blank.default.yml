@@ -1,3 +1,4 @@
+uuid: a186e01e-1458-4d92-a9a2-c60cf40affe2
 langcode: es
 status: true
 dependencies:
@@ -9,6 +10,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_blank
   module:
     - text
+_core:
+  default_config_hash: pzWtusbhpHulQsZfVjyTktBTELhhvmZc_tUWBfhdvto
 id: paragraph.bp_blank.default
 targetEntityType: paragraph
 bundle: bp_blank

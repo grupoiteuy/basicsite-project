@@ -1,8 +1,11 @@
+uuid: d8c35937-47e6-4e81-986e-5fc4e78dde6b
 langcode: es
 status: true
 dependencies:
   module:
     - paragraphs
+_core:
+  default_config_hash: klaq-Zfc75I2nTkLK72O7TXYuZIbecCfd2Z6xMiaOG4
 id: paragraph.bp_tab_section_title
 field_name: bp_tab_section_title
 entity_type: paragraph

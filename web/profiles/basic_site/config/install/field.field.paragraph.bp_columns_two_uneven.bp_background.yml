@@ -1,3 +1,4 @@
+uuid: fa2fcee0-8157-4830-b49f-94993611da35
 langcode: es
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_columns_two_uneven
   module:
     - options
+_core:
+  default_config_hash: G3XYVjt2VfLFFVX1OOT62FCeAs0LEB-Vb5PfDnLJQMk
 id: paragraph.bp_columns_two_uneven.bp_background
 field_name: bp_background
 entity_type: paragraph

@@ -1,9 +1,12 @@
+uuid: 7be5704a-89a6-4133-969a-6bceb13a7d37
 langcode: es
 status: true
 dependencies:
   module:
     - options
     - paragraphs
+_core:
+  default_config_hash: FAzPZMSRWfDQqwJm9DaGVtRmtasSpOOE5a1S_yA_108
 id: paragraph.bp_width
 field_name: bp_width
 entity_type: paragraph

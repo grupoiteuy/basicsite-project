@@ -1,8 +1,11 @@
+uuid: 0a875c24-d805-4895-a888-cd117f19a057
 langcode: es
 status: true
 dependencies:
   module:
     - node
+_core:
+  default_config_hash: VO6gB3qYVcZPSoUmuftpzAZxsuCT8wbPBv0vu0MCYx4
 id: node_make_unsticky_action
 label: 'Des fijar el contenido'
 type: node

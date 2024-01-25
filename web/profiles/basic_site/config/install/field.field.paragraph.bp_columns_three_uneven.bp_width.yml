@@ -1,3 +1,4 @@
+uuid: edaabe76-a5ab-49e9-9fcd-31a733e7db3c
 langcode: es
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_columns_three_uneven
   module:
     - options
+_core:
+  default_config_hash: W3CcRH1XGsztTOj6wanqNna_iL3EQ0h87PP9jROt0Zw
 id: paragraph.bp_columns_three_uneven.bp_width
 field_name: bp_width
 entity_type: paragraph

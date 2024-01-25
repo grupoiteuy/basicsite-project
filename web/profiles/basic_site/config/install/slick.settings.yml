@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: 0aqFNHsRuggqgcrrpe6v6jP_bTASCfshKXic2YM6KVc
 langcode: es
 library: slick
 module_css: true

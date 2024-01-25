@@ -1,6 +1,9 @@
+uuid: fc21e4a3-296a-41ee-becf-4d9bd1c5f4ad
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: 9i0dRk8r5z-3bItr_wQX_S7w4lniPzUiLEzIqyrREQE
 id: private_files
 label: 'Directorio de archivos privados'
 type: Directory

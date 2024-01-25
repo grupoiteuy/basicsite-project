@@ -1,3 +1,4 @@
+uuid: 38280a82-7c3c-44e0-92ad-90911c5d8191
 langcode: es
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_simple
   module:
     - text
+_core:
+  default_config_hash: IO8C0Cgm7FQl6R3MlQMuwuKTHC80RwGjZ72WyqfrRBo
 id: paragraph.bp_simple.bp_text
 field_name: bp_text
 entity_type: paragraph

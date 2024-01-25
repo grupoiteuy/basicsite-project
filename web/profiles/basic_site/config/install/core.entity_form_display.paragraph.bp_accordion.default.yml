@@ -1,3 +1,4 @@
+uuid: d007db19-ff5b-4c4d-813e-23b5b117c703
 langcode: es
 status: true
 dependencies:
@@ -11,6 +12,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_accordion
   module:
     - paragraphs
+_core:
+  default_config_hash: l9mnjvCR4nvOirM46Yj7sdbFMJyBqPY_2AeCNsGvb3Q
 id: paragraph.bp_accordion.default
 targetEntityType: paragraph
 bundle: bp_accordion

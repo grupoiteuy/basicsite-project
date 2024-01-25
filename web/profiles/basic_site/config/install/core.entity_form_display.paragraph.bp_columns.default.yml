@@ -1,3 +1,4 @@
+uuid: de5e1884-2160-47c8-9ccf-0c99bd2d4ce8
 langcode: es
 status: true
 dependencies:
@@ -9,6 +10,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_columns
   module:
     - paragraphs
+_core:
+  default_config_hash: drh7fl62qxF92oQr3gqBFV0FHI1jEk1Sdc7f7IaHlnc
 id: paragraph.bp_columns.default
 targetEntityType: paragraph
 bundle: bp_columns

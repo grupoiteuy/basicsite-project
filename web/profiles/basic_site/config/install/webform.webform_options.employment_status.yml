@@ -1,9 +1,12 @@
+uuid: 6c08c6ba-e47b-477a-9109-b390f46a9572
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: MUNnCzGkykiguP9lkgPn0fhJcXYH0NaOGQm5Tn3hWEo
 id: employment_status
 label: 'Employment status'
 category: Demográfico

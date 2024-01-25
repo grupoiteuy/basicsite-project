@@ -1,6 +1,9 @@
+uuid: ad2cb332-1a12-4ddb-88c5-5b594c6c993c
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: Xy2C2vNpRZWUkKhbwIPMgVbCSP_rS_8NxZWBCnCtgAY
 name: thumbnail
 label: 'Miniatura (100×100)'
 effects:

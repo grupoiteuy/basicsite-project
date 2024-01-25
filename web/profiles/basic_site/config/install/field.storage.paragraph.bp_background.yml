@@ -1,9 +1,12 @@
+uuid: 7faddd0d-f12e-462a-845c-58108fe9cafb
 langcode: es
 status: true
 dependencies:
   module:
     - options
     - paragraphs
+_core:
+  default_config_hash: 9HP7iOB3jJjJytu6uOGJjrjh8E2I60A5I6YXxVIroRE
 id: paragraph.bp_background
 field_name: bp_background
 entity_type: paragraph

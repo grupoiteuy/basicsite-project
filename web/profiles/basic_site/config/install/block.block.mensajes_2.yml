@@ -1,3 +1,4 @@
+uuid: 91bc0477-3285-4c8e-a197-65a2ad253d60
 langcode: es
 status: true
 dependencies:
@@ -5,6 +6,8 @@ dependencies:
     - system
   theme:
     - grupoite
+_core:
+  default_config_hash: KEgHEYJnRu0PdwdsQVEu9JAlE65r995msf_-Gy2gnRs
 id: mensajes_2
 theme: grupoite
 region: content

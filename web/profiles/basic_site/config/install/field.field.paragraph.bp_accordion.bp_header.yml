@@ -1,9 +1,12 @@
+uuid: aa8c7b15-ad88-4fc4-9e3d-65776a8b44f8
 langcode: es
 status: true
 dependencies:
   config:
     - field.storage.paragraph.bp_header
     - paragraphs.paragraphs_type.bp_accordion
+_core:
+  default_config_hash: 9QRTJOFdB9jUuwIfoFcLELuvMARK7bzd4bsoO0XtRww
 id: paragraph.bp_accordion.bp_header
 field_name: bp_header
 entity_type: paragraph

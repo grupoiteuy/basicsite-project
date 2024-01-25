@@ -1,6 +1,9 @@
+uuid: 18777ed5-fec9-42d2-8859-da87c2dd6dc1
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: 1_iq89HCscyafIESObdY3zUfAKHqq3IcDkuKKSsVF4U
 name: wide
 label: 'Ancho (1090)'
 effects:

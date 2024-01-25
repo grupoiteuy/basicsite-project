@@ -1,3 +1,4 @@
+uuid: 73e064e3-1b93-48f3-b3bc-79be03d3aac0
 langcode: es
 status: true
 dependencies:
@@ -5,6 +6,8 @@ dependencies:
     - system
   theme:
     - grupoite
+_core:
+  default_config_hash: WbHbQyhGWsp5p-KGQhYcojE0IV8diZDHZNIYMU1fNyI
 id: marcadelsitio
 theme: grupoite
 region: header

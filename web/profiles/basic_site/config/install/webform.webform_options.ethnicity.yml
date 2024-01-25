@@ -1,9 +1,12 @@
+uuid: d642e9e4-5512-4a42-935b-4549567a121b
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: K1U1DaB5df6jo3D0GhnFo_1Ixy06xWvQcF2rCagdX4Q
 id: ethnicity
 label: Ethnicity
 category: Demográfico

@@ -1,3 +1,4 @@
+uuid: cd7962d8-d7e6-48ca-bab6-e5f4ded750bb
 langcode: es
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - node.type.page
   module:
     - entity_reference_revisions
+_core:
+  default_config_hash: 9lwtTpN6jQnCspBHa7hMdenMJKYvV1yekSyxRH47k-4
 id: node.page.field_components
 field_name: field_components
 entity_type: node

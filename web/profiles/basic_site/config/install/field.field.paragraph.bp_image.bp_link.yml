@@ -1,3 +1,4 @@
+uuid: 825c536e-aa8b-4f5c-aa43-f55eb21559e8
 langcode: es
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_image
   module:
     - link
+_core:
+  default_config_hash: 4zQa6hz8weP8lTKMNo5rmSaMZVvuDN2KGJU75pSV4jc
 id: paragraph.bp_image.bp_link
 field_name: bp_link
 entity_type: paragraph

@@ -1,3 +1,4 @@
+uuid: e26e3bbb-aad1-4c95-a47c-46c4aa8e9fc9
 langcode: es
 status: true
 dependencies:
@@ -11,6 +12,8 @@ dependencies:
   module:
     - entity_reference_revisions
     - options
+_core:
+  default_config_hash: g6gRfVKzsfPKNgRyet4H9B_XNk_ud5tYS3dQQytXDas
 id: paragraph.bp_columns_two_uneven.default
 targetEntityType: paragraph
 bundle: bp_columns_two_uneven

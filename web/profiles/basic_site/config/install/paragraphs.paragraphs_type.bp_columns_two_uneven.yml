@@ -1,6 +1,9 @@
+uuid: f7b2022c-cc08-40fc-b251-11c340df3c2b
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: uqMtAVxVonh-Fp-57dwhl-aW_vu-u3ZZ1KWtyyroa8E
 id: bp_columns_two_uneven
 label: 'Columns (Two Uneven)'
 icon_uuid: null

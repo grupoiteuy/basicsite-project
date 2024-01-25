@@ -1,6 +1,9 @@
+uuid: 627a903e-2133-4e8d-85a6-72ad08f432c0
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: nsD196fKWQPss6B-wjpm-aDp3ye9pINwyN6GVJvzHmQ
 id: long
 label: 'Fecha larga por defecto'
 locked: false

@@ -1,9 +1,12 @@
+uuid: 418c5446-f7c3-4e35-a72a-65dd4da68ae4
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: UBBUQ7F_ARoWdAPm4S8um4uP903hGKFT7xx2q37EYhU
 id: likert_comparison
 label: 'Likert: Comparison'
 category: Likert

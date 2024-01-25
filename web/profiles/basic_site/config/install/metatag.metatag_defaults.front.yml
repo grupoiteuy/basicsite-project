@@ -1,6 +1,9 @@
+uuid: 34809ef0-eb8b-464c-8be3-e7957cc757c9
 langcode: es
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: GwIRTNp15Ur7tRG32502dlgaGZ5txYCs0EH7pArk2s0
 id: front
 label: 'Front page'
 tags:

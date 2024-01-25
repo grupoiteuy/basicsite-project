@@ -1,3 +1,4 @@
+uuid: b00a5e56-cefe-48c7-88d4-532330134102
 langcode: es
 status: true
 dependencies:
@@ -6,7 +7,10 @@ dependencies:
   enforced:
     module:
       - media_library
+_core:
+  default_config_hash: r_SzkTzGMuq5GB2sHThJ0g-9UMtUuolVi_CmX3v8MmU
 id: media.media_library
 label: 'Media library'
+description: ''
 targetEntityType: media
 cache: true

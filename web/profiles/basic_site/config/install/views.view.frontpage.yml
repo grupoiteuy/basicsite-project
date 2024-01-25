@@ -1,3 +1,4 @@
+uuid: 825d2099-21cb-455f-8c0c-2294e220f819
 langcode: es
 status: true
 dependencies:
@@ -7,6 +8,8 @@ dependencies:
   module:
     - node
     - user
+_core:
+  default_config_hash: 8Pb94e7ecM21C0p5lylP-uuylvd9lvFO-wgWJ4hpnYk
 id: frontpage
 label: 'Página inicio'
 module: node

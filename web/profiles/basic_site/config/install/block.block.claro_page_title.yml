@@ -1,12 +1,15 @@
+uuid: ea939ab7-c337-4673-8f31-97a8ad7e1922
 langcode: es
 status: true
 dependencies:
   theme:
-    - seven
-id: titulodelapagina
-theme: seven
+    - claro
+_core:
+  default_config_hash: fNwDdW063tk_ktzSWzZVeQS9wzvLooVO280BQ9WrsIs
+id: claro_page_title
+theme: claro
 region: header
-weight: 0
+weight: -30
 provider: null
 plugin: page_title_block
 settings:

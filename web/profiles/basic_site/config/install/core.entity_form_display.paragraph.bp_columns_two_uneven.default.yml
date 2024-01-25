@@ -1,3 +1,4 @@
+uuid: de51d223-9da9-4926-b0b6-52f28d293be9
 langcode: es
 status: true
 dependencies:
@@ -10,6 +11,8 @@ dependencies:
     - paragraphs.paragraphs_type.bp_columns_two_uneven
   module:
     - paragraphs
+_core:
+  default_config_hash: cFGQtpVBquEc82EGECnyxwtHwXfOxfxWB552n3-KfM0
 id: paragraph.bp_columns_two_uneven.default
 targetEntityType: paragraph
 bundle: bp_columns_two_uneven

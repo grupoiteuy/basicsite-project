@@ -1,9 +1,12 @@
+uuid: d8bdf4cd-2801-4ddc-882e-b65ef3cb61e4
 langcode: es
 status: true
 dependencies:
   enforced:
     module:
       - webform
+_core:
+  default_config_hash: taWBTQBEZ_qoQ8GXTxRxvP6H189TS6wvdQ9IcaXJeJk
 id: relationship
 label: Relación
 category: Demográfico

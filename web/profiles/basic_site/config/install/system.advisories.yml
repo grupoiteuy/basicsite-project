@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: pIQKNZKrBreBpzLziwcEo4yNEQTW_TCCDsZ1RnjM6LM
 langcode: es
 enabled: true
 interval_hours: 6
